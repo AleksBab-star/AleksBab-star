@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,vite&theme=dark" />
 
 **Styling & Design**  
-<img src="https://skillicons.dev/icons?i=tailwind,css,html,sass,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tailwind,css,html,figma&theme=dark" />
 
 **Tools & Environment**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,nodejs,npm&theme=dark" />
@@ -39,20 +39,20 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tarakanofvw)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArtemTarakanov)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemtarakanov2505@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BitaBabita)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AleksBab-star)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aleksandrbabikov8@gmail.com)
 
 <br>
 
-📧 artemtarakanov2505@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; ✈️ @tarakanofvw
+📧 aleksandrbabikov8@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; ✈️ @babikov
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0EA5E9&height=100&section=footer" width="100%" alt="Footer" />
 </div>
 
 <div align="center">
